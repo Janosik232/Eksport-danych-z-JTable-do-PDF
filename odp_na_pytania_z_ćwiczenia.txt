@@ -1,0 +1,5 @@
+JFileChooser – służy do wybrania przez użytkownika miejsca i nazwy pliku, do którego zostanie zapisany plik PDF.
+
+toString() – zamienia wartość z komórki tabeli na tekst, bo komórki PDF przyjmują dane w formie napisu.
+
+Brak document.close() – plik PDF może się nie zapisać poprawnie albo będzie uszkodzony.
